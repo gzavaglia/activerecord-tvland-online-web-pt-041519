@@ -4,7 +4,7 @@ class Actor < ActiveRecord::Base
   through: :characters
   
   def full_name
-    self.name
+    full_name = 
   end
   
 end
