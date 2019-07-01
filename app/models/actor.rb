@@ -15,4 +15,3 @@ class Actor < ActiveRecord::Base
     roles
   end
 end
-© 2019 GitHub, Inc.
